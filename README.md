@@ -6,7 +6,7 @@ I am a developer specializing in building back-end services, web applications an
 
 I am always open to collaborate on projects and new ideas. Learn more about me and contact me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzodkhoja-khayrullayev-100845186/)](https://www.linkedin.com/in/bekzodkhoja-khayrullayev-26320a262/) 
+[![Linkedin Badge](https://img.shields.io/badge/bekzodkhoja-khayrullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzodkhoja-khayrullayev-100845186/)](https://www.linkedin.com/in/bekzodkhoja-khayrullayev-26320a262/) 
 [![Telegram Badge](https://img.shields.io/badge/@Khayrullayev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/khayrullayev)](https://t.me/Khayrullayev21) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
