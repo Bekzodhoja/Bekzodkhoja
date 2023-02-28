@@ -2,12 +2,12 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I am a developer specializing in building back-end services, web applications and systems using PHP and Laravel. I love working with a team, taking on big projects, solving problems, helping businesses and people grow and improve their lives. </br>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am always open to collaborate on projects and new ideas. Learn more about me and contact me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
+[![Linkedin Badge](https://img.shields.io/badge/-bekzodkhoja-khayrullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzodkhoja-khayrullayev-100845186/)](https://www.linkedin.com/in/bekzodkhoja-khayrullayev-26320a262/) 
+[![Telegram Badge](https://img.shields.io/badge/@Khayrullayev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/khayrullayev)](https://t.me/Khayrullayev21) 
 [![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
 
   
