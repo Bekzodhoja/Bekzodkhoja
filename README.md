@@ -8,16 +8,15 @@ I am always open to collaborate on projects and new ideas. Learn more about me a
 
 [![Linkedin Badge](https://img.shields.io/badge/khayrullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekzodkhoja-khayrullayev-100845186/)](https://www.linkedin.com/in/bekzodkhoja-khayrullayev-26320a262/) 
 [![Telegram Badge](https://img.shields.io/badge/@Khayrullayev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/khayrullayev)](https://t.me/Khayrullayev21) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+- :computer: I'm currently working on Laravel
+- :hourglass_flowing_sand: An in-depth study of object-oriented programming
+- :muscle: Do Bodybuilding and Gymnastics
+- :rocket: Always willing to cooperate for Dev Experiments
 
 ## ⚡ Technologies
 
